@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Eastern Gray Squirrel",
+    "location": "North America",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Eastern_Grey_Squirrel_in_Bunhill_Fields.jpg/220px-Eastern_Grey_Squirrel_in_Bunhill_Fields.jpg"
+  },
+  {
+    "name": "American Red Squirrel",
+    "location": "North America",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Tamiasciurus_hudsonicus_CT.jpg/220px-Tamiasciurus_hudsonicus_CT.jpg"
+  },
+  {
+    "name": "African Ground Squirrel",
+    "location": "Africa",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Borstenhoernchen-02.jpg/300px-Borstenhoernchen-02.jpg"
+  },
+  {
+    "name": "Red Squirrel",
+    "location": "North America",
+    "picture": "https://www.logsdirect.co.uk/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/i/mike-hetherington-red-squirrel.jpg"
+  }
+]
